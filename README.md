@@ -12,9 +12,7 @@
 - `spawning/` - cat-catching emojis, one folder per theme (`default`, `birthday`, `halloween`, `old`, `fish`)
 - `legacy/` - assets nothing in cat-bot references anymore; kept for history, not meant to be uploaded
   anywhere. Currently: `mysteryfinecat` (a since-reverted April Fools joke), `piece` (the 2025 Birthday
-  puzzle-piece event, fully removed later), `o_babycat`/`o_thetrashcellcat` ("old" theme icons for the
-  Baby and TheTrashCell cat types, both renamed since - to Gremlin and Trash respectively - and never
-  replaced with old-style icons under their new names, so the `old` theme is currently missing those two),
-  and `birthday` (an unprefixed spawning/birthday icon that doesn't appear to have ever been referenced)
+  puzzle-piece event, fully removed later), and `birthday` (an unprefixed spawning/birthday icon that
+  doesn't appear to have ever been referenced)
 
 Note: custom cats folder is deprecated and won't be updated.
